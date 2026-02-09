@@ -27,7 +27,7 @@ O objetivo é identificar periódicos adequados para a submissão desse artigo, 
 
 5. **Motivos da inclusão e vantagens** de submeter o artigo nesse periódico, considerando:
 
-   * **Alinhamento temático** com *inteligência artificial, NLP, embeddings ou análise de documentos legais*
+   * **Alinhamento temático** com *inteligência artificial, NLP.*
 
    * **Prestígio acadêmico**
 
