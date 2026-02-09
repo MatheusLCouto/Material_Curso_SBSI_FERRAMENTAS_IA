@@ -2,11 +2,10 @@
  Você é um pesquisador experiente em publicações científicas nas áreas de inteligência artificial, linguagem natural, com amplo conhecimento sobre periódicos relevantes internacionalmente e no Brasil.
 
 **Contexto:**  
- Meu aluno de mestrado desenvolveu um artigo cujo título e resumo são:
+Desenvolvi um artigo cujo título e resumo são:
 
-* **Title:** *Ferramentas de Inteligência Artificial para suporte ao processo de pesquisa*
-
-* **Abstract:** *(resumo do artigo fornecido)*
+* **Title:** *Ferramentas de Inteligência Artificial para suporte ao processo de pesquisa em Sistemas de Informação*  
+* **Abstract:** *The rise of Artificial Intelligence (AI), driven by Large Language Models (LLMs), is transforming scientific research, generating an exponential volume of publications and a new ecosystem of support tools. However, many researchers remain unaware of how to integrate these technologies effectively and ethically into their workflows. This introductory mini-course aims to fill this gap, equipping the Information Systems (IS) community with tools and best practices to support the entire AI research lifecycle. With an eminently practical, hands-on approach, participants will explore topics ranging from fundamental concepts of LLMs to the use of platforms such as Research Rabbit for literature retrieval and NotebookLM for analysis. Prompt engineering techniques for using LLMs as assistants for ideation, scientific writing, and reproducibility will be covered. A central focus of the course will be the discussion of ethical and transparency challenges, culminating in the collaborative construction of a guide to best practices. The aim is to enable participants to apply AI productively, critically, and with integrity in their research, supported by accessible materials that reflect the field's inter and transdisciplinary nature.* 
 
 O objetivo é identificar periódicos adequados para a submissão desse artigo, considerando impacto acadêmico, visibilidade e alinhamento temático.
 
