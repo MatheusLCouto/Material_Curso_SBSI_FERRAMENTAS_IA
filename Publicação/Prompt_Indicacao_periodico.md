@@ -41,4 +41,4 @@ O objetivo é identificar periódicos adequados para a submissão desse artigo, 
  Organize os resultados em uma **tabela clara**, onde cada linha representa um periódico e as colunas são:
 
 | Nome do periódico | Fator de Impacto | Estrato Qualis (CAPES) | Tempo médio de resposta | Motivos e vantagens de submissão |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: |         
