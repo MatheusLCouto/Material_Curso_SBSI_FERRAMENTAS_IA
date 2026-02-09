@@ -60,13 +60,17 @@ a pesquisa em SI
 
 ## Estrutura do Repositório
 
-├── Revisão da literatura/ # Prompt de imersão em um tema
-├── Desenho de pesquisa/ # Prompts e exemplos para pergunta de pesquisa, survey e ameaça a validade
-├── Condução da pesquisa/ # Prompts para extração de passos e replicação de experimentos
-├── Publicação/ # Prompts para revisão da escrita e indicação de locais de publicação
-├── Slides Aulas/ # Apresentações dos slides do minicurso
-├── LICENSE.md # Licença CC BY-NC 4.0
-└── README.md # Este arquivo
+
+```text
+├── revisao-da-literatura/        # Prompt de imersão em um tema
+├── desenho-de-pesquisa/          # Prompts e exemplos para pergunta de pesquisa, survey e ameaça à validade
+├── conducao-da-pesquisa/         # Prompts para extração de passos e replicação de experimentos
+├── publicacao/                   # Prompts para revisão da escrita e indicação de locais de publicação
+├── slides-aulas/                 # Apresentações dos slides do minicurso
+├── LICENSE.md                    # Licença CC BY-NC 4.0
+└── README.md                     # Este arquivo
+```
+
 
 
 ## Pré-requisitos
