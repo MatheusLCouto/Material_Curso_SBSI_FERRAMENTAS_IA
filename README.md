@@ -98,7 +98,7 @@ a pesquisa em SI
           <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="22">
         </a>
         <a href="http://lattes.cnpq.br/8320014491229434" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/CNPqLattes.svg" width="22">
+            <img src="images/lattes.png" width="22" alt="Lattes">
         </a>
         <a href="https://www.linkedin.com/in/lobatofabiof/" target="_blank">
           <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
@@ -120,7 +120,7 @@ a pesquisa em SI
 
   <div style="height:36px;">
         <a href="http://lattes.cnpq.br/0060847588752899" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/CNPqLattes.svg" width="22">
+          <img src="images/lattes.png" width="22" alt="Lattes">
         </a>
         <a href="https://www.linkedin.com/in/matheus-couto-985245290/" target="_blank">
           <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
@@ -142,7 +142,7 @@ a pesquisa em SI
 
    <div style="height:36px;">
         <a href="http://lattes.cnpq.br/4510520291728075" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/CNPqLattes.svg" width="22">
+          <img src="images/lattes.png" width="22" alt="Lattes">
         </a>
         <a href="https://www.linkedin.com/in/jacob-jr-744946208/" target="_blank">
           <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
@@ -160,7 +160,7 @@ a pesquisa em SI
 
   <div style="height:36px;">
         <a href="http://lattes.cnpq.br/8967108715703055" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/CNPqLattes.svg" width="22">
+          <img src="images/lattes.png" width="22" alt="Lattes">
         </a>
         <a href="https://www.linkedin.com/in/rene-santin-6b40802/" target="_blank">
           <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
@@ -179,7 +179,7 @@ a pesquisa em SI
 
   <div style="height:36px;">
         <a href="http://lattes.cnpq.br/8526960535874806" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/CNPqLattes.svg" width="22">
+          <img src="images/lattes.png" width="22" alt="Lattes">
         </a>
         <a href="https://www.linkedin.com/in/solangerezende/" target="_blank">
           <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
@@ -198,7 +198,7 @@ a pesquisa em SI
 
   <div style="height:36px;">
         <a href="http://lattes.cnpq.br/3272611282260295" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/CNPqLattes.svg" width="22">
+          <img src="images/lattes.png" width="22" alt="Lattes">
         </a>
         <a href="https://www.linkedin.com/in/marcacini/" target="_blank">
           <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
