@@ -211,18 +211,3 @@ a pesquisa em SI
 
 
 
-```html
-## Citação
-
-Se você utilizar este material em suas aulas ou pesquisas, por favor cite:
-
-```bibtex
-@inbook{sbsi2026-ia-pesquisa,
-  author = {[Autores]},
-  title = {IA na Pesquisa Científica: Ferramentas e Boas Práticas para Sistemas de Informação},
-  booktitle = {[Nome do Livro]},
-  year = {2026},
-  publisher = {SBC},
-  note = {Minicurso apresentado no SBSI 2026}
-}
-```
