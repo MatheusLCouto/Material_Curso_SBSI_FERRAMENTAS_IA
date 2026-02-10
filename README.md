@@ -81,51 +81,137 @@ a pesquisa em SI
 - **Não é necessário** conhecimento avançado de programação
 
 ## Autores
-<table>
+<table align="center">
   <tr>
-    <td align="center">
-      <img src="images/fabio.jpg" width="100px;" alt="Fábio Lobato"/><br>
-      <sub><b>Fábio Lobato</b></sub><br>
-      <a href="mailto:fabio.lobato@ufopa.edu.br">📧</a>
-      <a href="https://www.linkedin.com/in/lobatofabiof/" target="_blank">🔗</a>
-      <a href="https://github.com/fabiolobato" target="_blank">💻</a>
+
+  <!-- Fábio -->
+   <td align="center" width="180">
+      <img src="images/fabio.jpg" width="110" height="110"
+           style="object-fit: cover;" alt="Fábio Lobato"><br>
+
+  <div style="height:48px;">
+        <strong>Fábio Lobato</strong>
+      </div>
+
+   <div style="height:36px;">
+        <a href="mailto:fabio.lobato@ufopa.edu.br">
+          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="22">
+        </a>
+        <a href="http://lattes.cnpq.br/8320014491229434" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/CNPqLattes.svg" width="22">
+        </a>
+        <a href="https://www.linkedin.com/in/lobatofabiof/" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
+        </a>
+        <a href="https://github.com/fabiolobato" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="22">
+        </a>
+      </div>
     </td>
 
-  <td align="center">
-      <img src="images/matheus.png" width="100px;" alt="Matheus Couto"/><br>
-      <sub><b>Matheus Couto</b></sub><br>
-      <a href="https://www.linkedin.com/in/matheus-couto-985245290/" target="_blank">🔗</a>
-      <a href="https://github.com/MatheusLCouto" target="_blank">💻</a>
-  </td>
+<!-- Matheus -->
+<td align="center" width="180">
+      <img src="images/matheus.png" width="110" height="110"
+           style="object-fit: cover;" alt="Matheus Couto"><br>
 
-  <td align="center">
-      <img src="images/jacob.jpg" width="100px;" alt="Antonio Jacob Jr"/><br>
-      <sub><b>Antonio L. Jacob Jr</b></sub><br>
-      <a href="https://www.linkedin.com/in/jacob-jr-744946208/" target="_blank">🔗</a>
-  </td>
+  <div style="height:48px;">
+        <strong>Matheus Couto</strong>
+      </div>
 
+  <div style="height:36px;">
+        <a href="http://lattes.cnpq.br/0060847588752899" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/CNPqLattes.svg" width="22">
+        </a>
+        <a href="https://www.linkedin.com/in/matheus-couto-985245290/" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
+        </a>
+        <a href="https://github.com/MatheusLCouto" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="22">
+        </a>
+      </div>
+    </td>
 
+<!-- Jacob -->
+<td align="center" width="180">
+      <img src="images/jacob.jpg" width="110" height="110"
+           style="object-fit: cover;" alt="Antonio Jacob Jr"><br>
 
-  <td align="center">
-      <img src="images/rene.png" width="100px;" alt="René Santin"/><br>
-      <sub><b>René Vieira Santin</b></sub><br>
-      <a href="https://www.linkedin.com/in/rene-santin-6b40802/" target="_blank">🔗</a>
-  </td>
+  <div style="height:48px;">
+        <strong>Antonio L. Jacob Jr</strong>
+      </div>
 
-  <td align="center">
-      <img src="images/solange.jpg" width="100px;" alt="Solange Rezende"/><br>
-      <sub><b>Solange Oliveira Rezende</b></sub><br>
-      <a href="https://www.linkedin.com/in/solangerezende/" target="_blank">🔗</a>
-  </td>
+   <div style="height:36px;">
+        <a href="http://lattes.cnpq.br/4510520291728075" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/CNPqLattes.svg" width="22">
+        </a>
+        <a href="https://www.linkedin.com/in/jacob-jr-744946208/" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
+        </a>
+      </div>
+    </td>
+<!-- René -->
+    <td align="center" width="180">
+      <img src="images/rene.png" width="110" height="110"
+           style="object-fit: cover;" alt="René Santin"><br>
 
-  <td align="center">
-      <img src="images/ricardo.png" width="100px;" alt="Ricardo Marcacini"/><br>
-      <sub><b>Ricardo M. Marcacini</b></sub><br>
-      <a href="https://www.linkedin.com/in/marcacini/" target="_blank">🔗</a>
-  </td>
+  <div style="height:48px;">
+        <strong>René Vieira Santin</strong>
+      </div>
+
+  <div style="height:36px;">
+        <a href="http://lattes.cnpq.br/8967108715703055" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/CNPqLattes.svg" width="22">
+        </a>
+        <a href="https://www.linkedin.com/in/rene-santin-6b40802/" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
+        </a>
+      </div>
+    </td>
+
+<!-- Solange -->
+<td align="center" width="180">
+      <img src="images/solange.jpg" width="110" height="110"
+           style="object-fit: cover;" alt="Solange Rezende"><br>
+
+  <div style="height:48px;">
+        <strong>Solange Oliveira Rezende</strong>
+      </div>
+
+  <div style="height:36px;">
+        <a href="http://lattes.cnpq.br/8526960535874806" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/CNPqLattes.svg" width="22">
+        </a>
+        <a href="https://www.linkedin.com/in/solangerezende/" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
+        </a>
+      </div>
+    </td>
+
+<!-- Ricardo -->
+<td align="center" width="180">
+      <img src="images/ricardo.png" width="110" height="110"
+           style="object-fit: cover;" alt="Ricardo Marcacini"><br>
+
+  <div style="height:48px;">
+        <strong>Ricardo M. Marcacini</strong>
+      </div>
+
+  <div style="height:36px;">
+        <a href="http://lattes.cnpq.br/3272611282260295" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/CNPqLattes.svg" width="22">
+        </a>
+        <a href="https://www.linkedin.com/in/marcacini/" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
+        </a>
+      </div>
+    </td>
+
   </tr>
 </table>
 
+
+
+```html
 ## Citação
 
 Se você utilizar este material em suas aulas ou pesquisas, por favor cite:
@@ -139,4 +225,4 @@ Se você utilizar este material em suas aulas ou pesquisas, por favor cite:
   publisher = {SBC},
   note = {Minicurso apresentado no SBSI 2026}
 }
-
+```
