@@ -81,8 +81,50 @@ a pesquisa em SI
 - **Não é necessário** conhecimento avançado de programação
 
 ## Instrutores
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/fabio.jpeg" width="100px;" alt="Fábio Lobato"/><br>
+      <sub><b>Fábio Lobato</b></sub><br>
+      <a href="mailto:fabio.lobato@ufopa.edu.br">📧</a>
+      <a href="https://www.linkedin.com/in/lobatofabiof/" target="_blank">🔗</a>
+      <a href="https://github.com/fabiolobato" target="_blank">💻</a>
+    </td>
 
-[Adicione aqui as informações dos instrutores]
+  <td align="center">
+      <img src="images/matheus.jpeg" width="100px;" alt="Matheus Couto"/><br>
+      <sub><b>Matheus Couto</b></sub><br>
+      <a href="https://www.linkedin.com/in/matheus-couto-985245290/" target="_blank">🔗</a>
+      <a href="https://github.com/MatheusLCouto" target="_blank">💻</a>
+  </td>
+
+  <td align="center">
+      <img src="images/jacob.jpeg" width="100px;" alt="Antonio Jacob Jr"/><br>
+      <sub><b>Antonio L. Jacob Jr</b></sub><br>
+      <a href="https://www.linkedin.com/in/jacob-jr-744946208/" target="_blank">🔗</a>
+  </td>
+
+
+
+  <td align="center">
+      <img src="images/rene.jpeg" width="100px;" alt="René Santin"/><br>
+      <sub><b>René Vieira Santin</b></sub><br>
+      <a href="https://www.linkedin.com/in/rene-santin-6b40802/" target="_blank">🔗</a>
+  </td>
+
+  <td align="center">
+      <img src="images/solange.jpeg" width="100px;" alt="Solange Rezende"/><br>
+      <sub><b>Solange Oliveira Rezende</b></sub><br>
+      <a href="https://www.linkedin.com/in/solangerezende/" target="_blank">🔗</a>
+  </td>
+
+  <td align="center">
+      <img src="images/ricardo.jpeg" width="100px;" alt="Ricardo Marcacini"/><br>
+      <sub><b>Ricardo M. Marcacini</b></sub><br>
+      <a href="https://www.linkedin.com/in/marcacini/" target="_blank">🔗</a>
+  </td>
+  </tr>
+</table>
 
 ## Citação
 
