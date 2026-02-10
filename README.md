@@ -80,7 +80,7 @@ a pesquisa em SI
 - Navegador web atualizado
 - **Não é necessário** conhecimento avançado de programação
 
-## Instrutores
+## Autores
 <table>
   <tr>
     <td align="center">
@@ -113,7 +113,7 @@ a pesquisa em SI
   </td>
 
   <td align="center">
-      <img src="images/solange.png" width="100px;" alt="Solange Rezende"/><br>
+      <img src="images/solange.jpg" width="100px;" alt="Solange Rezende"/><br>
       <sub><b>Solange Oliveira Rezende</b></sub><br>
       <a href="https://www.linkedin.com/in/solangerezende/" target="_blank">🔗</a>
   </td>
