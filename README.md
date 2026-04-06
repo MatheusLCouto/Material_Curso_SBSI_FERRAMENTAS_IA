@@ -124,7 +124,7 @@ a fluência no uso de ferramentas de IA, competência necessária neste novo mun
            style="object-fit: cover;" alt="Solange Rezende"><br>
 
   <div style="height:48px;">
-        <strong>Solange Rezende</strong>
+        <strong>Solange O. Rezende</strong>
       </div>
 
   <div style="height:36px;">
