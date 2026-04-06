@@ -1,4 +1,4 @@
-# IA na Pesquisa Científica: Ferramentas e Boas Práticas para Sistemas de Informação
+# Ferramentas de Inteligência Artificial para suporte ao processo de pesquisa em Sistemas de Informação
 
 [![SBSI 2026](https://img.shields.io/badge/SBSI-2026-blue)](https://sbsi.sbc.org.br/)
 [![CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br)
@@ -7,54 +7,21 @@
 
 ## Sobre o Minicurso
 
-Este repositório contém os materiais do minicurso **"IA na Pesquisa Científica: Ferramentas e Boas Práticas para Sistemas de Informação"**, que será ministrado na **SBSI 2026** e publicado como capítulo de livro.
-
-Com o crescimento exponencial da Inteligência Artificial e dos Large Language Models (LLMs), a pesquisa científica está sendo transformada. No entanto, muitos pesquisadores ainda não sabem como integrar essas tecnologias de forma eficaz e ética em seus fluxos de trabalho. Este minicurso preenche essa lacuna, oferecendo uma abordagem prática e hands-on para capacitar a comunidade de Sistemas de Informação.
+A ascensão da Inteligência Artificial (IA), impulsionada por Modelos de Linguagem de Grande Escala (LLMs), está transformando a pesquisa científica, gerando um volume exponencial de publicações e um novo ecossistema de ferramentas de apoio. No entanto, muitos pesquisadores ainda desconhecem como integrar essas tecnologias de forma eficaz e ética ao seu fluxo de trabalho. Este minicurso introdutório visa preencher essa lacuna, instrumentalizando a comunidade de Sistemas de Informação (SI) com ferramentas e boas práticas para apoiar todo o ciclo de vida da pesquisa com IA. Com uma abordagem eminentemente prática e hands-on, os participantes explorarão desde conceitos fundamentais de LLMs até o uso de plataformas como Research Rabbit para recuperação de literatura e NotebookLM para análise. Serão abordadas técnicas de engenharia de prompts para utilizar LLMs  como assistentes na ideação, na escrita científica e na reprodutibilidade. Um eixo central do minicurso será a discussão dos desafios éticos e de transparência, culminando na construção colaborativa de um guia de boas práticas. Espera-se capacitar os participantes a aplicar a IA de forma produtiva, crítica e íntegra em suas investigações, com material de apoio acessível que contemple o caráter inter e transdisciplinar da área de SI.
 
 ### Objetivos
 
 - Fornecer uma visão geral das ferramentas de IA para suporte à pesquisa científica
-atualmente existentes
+atualmente existentes;
 - Apresentar aplicações de modelos de IA generativa que demonstrem seu potencial
-para auxiliar no fazer científico
+para auxiliar no fazer científico;
 - Promover uma discussão aprofundada sobre as implicações éticas, de transparência
-e de reprodutibilidade associadas ao uso da IA na pesquisa
+e de reprodutibilidade associadas ao uso da IA na pesquisa;
 - Oferecer demonstrações práticas e casos de uso de como essas ferramentas podem
 ser aplicadas para resolver desafios específicos da pesquisa em SI, fortalecendo o
-rigor metodológico da comunidade
+rigor metodológico da comunidade;
 - Preparar o novo pesquisador para o futuro presente da Pesquisa em SI, promovendo
-a fluência no uso de ferramentas de IA, competência necessária neste novo mundo
-
-## Conteúdo Programático
-
-##### 1. Uma visão geral de modelos de língua de grande escala e conceitos básicos de cientometria
-- Conceitos básicos de Large Language Models
-- Capacidades e limitações dos LLMs
-- Panorama atual das ferramentas disponíveis
-
-##### 2. Ferramentas para a recuperação de artigos 
-- **Research Rabbit**: busca e organização de referências
-- Estratégias de recuperação de informação
-- Gestão de bibliografia com IA
-
-##### 3. Ferramenta para sumarização e análise de artigos, incluindo a criação de podcasts
-- Análise e síntese de documentos científicos
-- Extração de insights de artigos
-- Organização de conhecimento
-
-
-##### 4. Engenharia de prompt para a revisão, reprodutibilidade e construção de artefatos
-- Técnicas de engenharia de prompts
-- LLMs como assistentes de ideação
-- Suporte à escrita científica
-- Garantia de reprodutibilidade
-
-##### 5. Aspectos éticos e de responsabilidade no uso de ferramentas baseadas em IA para
-a pesquisa em SI
-- Desafios éticos no uso de IA
-- Questões de autoria e originalidade
-- Transparência e reprodutibilidade
-
+a fluência no uso de ferramentas de IA, competência necessária neste novo mundo.
 
 
 
@@ -72,14 +39,6 @@ a pesquisa em SI
 ```
 
 
-
-## Pré-requisitos
-
-- Conhecimento básico de pesquisa científica
-- Conta Google (para usar Colab e NotebookLM)
-- Navegador web atualizado
-- **Não é necessário** conhecimento avançado de programação
-
 ## Autores
 <table align="center">
   <tr>
@@ -90,21 +49,15 @@ a pesquisa em SI
            style="object-fit: cover;" alt="Fábio Lobato"><br>
 
   <div style="height:48px;">
-        <strong>Fábio Lobato</strong>
+        <strong>Fábio M. F.Lobato</strong>
       </div>
 
    <div style="height:36px;">
-        <a href="mailto:fabio.lobato@ufopa.edu.br">
-          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="22">
-        </a>
         <a href="http://lattes.cnpq.br/8320014491229434" target="_blank">
             <img src="images/lattes.png" width="22" alt="Lattes">
         </a>
         <a href="https://www.linkedin.com/in/lobatofabiof/" target="_blank">
           <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
-        </a>
-        <a href="https://github.com/fabiolobato" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="22">
         </a>
       </div>
     </td>
@@ -115,7 +68,7 @@ a pesquisa em SI
            style="object-fit: cover;" alt="Matheus Couto"><br>
 
   <div style="height:48px;">
-        <strong>Matheus Couto</strong>
+        <strong>Matheus L. Couto</strong>
       </div>
 
   <div style="height:36px;">
@@ -124,9 +77,6 @@ a pesquisa em SI
         </a>
         <a href="https://www.linkedin.com/in/matheus-couto-985245290/" target="_blank">
           <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
-        </a>
-        <a href="https://github.com/MatheusLCouto" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="22">
         </a>
       </div>
     </td>
@@ -155,7 +105,7 @@ a pesquisa em SI
            style="object-fit: cover;" alt="René Santin"><br>
 
   <div style="height:48px;">
-        <strong>René Vieira Santin</strong>
+        <strong>René V. Santin</strong>
       </div>
 
   <div style="height:36px;">
@@ -174,7 +124,7 @@ a pesquisa em SI
            style="object-fit: cover;" alt="Solange Rezende"><br>
 
   <div style="height:48px;">
-        <strong>Solange Oliveira Rezende</strong>
+        <strong>Solange O. Rezende</strong>
       </div>
 
   <div style="height:36px;">
