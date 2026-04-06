@@ -45,7 +45,7 @@ a fluência no uso de ferramentas de IA, competência necessária neste novo mun
 
   <!-- Fábio -->
    <td align="center" width="180">
-      <img src="images/fabio.jpg" width="110" height="110"
+      <img src="images/fabio.png" width="110" height="110"
            style="object-fit: cover;" alt="Fábio Lobato"><br>
 
   <div style="height:48px;">
@@ -83,7 +83,7 @@ a fluência no uso de ferramentas de IA, competência necessária neste novo mun
 
 <!-- Jacob -->
 <td align="center" width="180">
-      <img src="images/jacob.jpg" width="110" height="110"
+      <img src="images/jacob.png" width="110" height="110"
            style="object-fit: cover;" alt="Antonio Jacob Jr"><br>
 
   <div style="height:48px;">
@@ -120,7 +120,7 @@ a fluência no uso de ferramentas de IA, competência necessária neste novo mun
 
 <!-- Solange -->
 <td align="center" width="180">
-      <img src="images/solange.jpg" width="110" height="110"
+      <img src="images/solange.png" width="110" height="110"
            style="object-fit: cover;" alt="Solange Rezende"><br>
 
   <div style="height:48px;">
