@@ -40,124 +40,50 @@ a fluência no uso de ferramentas de IA, competência necessária neste novo mun
 
 
 ## Autores
+
 <table align="center">
   <tr>
-
-  <!-- Fábio -->
-   <td align="center" width="180">
-      <img src="images/fabio.png" width="110" height="110"
-           style="object-fit: cover;" alt="Fábio Lobato"><br>
-
-  <div style="height:48px;">
-        <strong>Fábio Lobato</strong>
-      </div>
-
-   <div style="height:36px;">
-        <a href="http://lattes.cnpq.br/8320014491229434" target="_blank">
-            <img src="images/lattes.png" width="22" alt="Lattes">
-        </a>
-        <a href="https://www.linkedin.com/in/lobatofabiof/" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
-        </a>
-      </div>
+    <td align="center" width="180"><img src="images/fabio.png" width="110" alt="Fábio Lobato"></td>
+    <td align="center" width="180"><img src="images/matheus.png" width="110" alt="Matheus Couto"></td>
+    <td align="center" width="180"><img src="images/jacob.png" width="110" alt="Antonio Jacob Jr"></td>
+    <td align="center" width="180"><img src="images/rene.png" width="110" alt="René Santin"></td>
+    <td align="center" width="180"><img src="images/solange.png" width="110" alt="Solange Rezende"></td>
+    <td align="center" width="180"><img src="images/ricardo.png" width="110" alt="Ricardo Marcacini"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Fábio Lobato</strong></td>
+    <td align="center"><strong>Matheus Couto</strong></td>
+    <td align="center"><strong>Antonio Jacob Jr</strong></td>
+    <td align="center"><strong>René Santin</strong></td>
+    <td align="center"><strong>Solange Rezende</strong></td>
+    <td align="center"><strong>Ricardo Marcacini</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="http://lattes.cnpq.br/8320014491229434"><img src="images/lattes.png" width="22" alt="Lattes"></a>
+      <a href="https://www.linkedin.com/in/lobatofabiof/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22" alt="LinkedIn"></a>
     </td>
-
-<!-- Matheus -->
-<td align="center" width="180">
-      <img src="images/matheus.png" width="110" height="110"
-           style="object-fit: cover;" alt="Matheus Couto"><br>
-
-  <div style="height:48px;">
-        <strong>Matheus Couto</strong>
-      </div>
-
-  <div style="height:36px;">
-        <a href="http://lattes.cnpq.br/0060847588752899" target="_blank">
-          <img src="images/lattes.png" width="22" alt="Lattes">
-        </a>
-        <a href="https://www.linkedin.com/in/matheus-couto-985245290/" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
-        </a>
-      </div>
+    <td align="center">
+      <a href="http://lattes.cnpq.br/0060847588752899"><img src="images/lattes.png" width="22" alt="Lattes"></a>
+      <a href="https://www.linkedin.com/in/matheus-couto-985245290/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22" alt="LinkedIn"></a>
     </td>
-
-<!-- Jacob -->
-<td align="center" width="180">
-      <img src="images/jacob.png" width="110" height="110"
-           style="object-fit: cover;" alt="Antonio Jacob Jr"><br>
-
-  <div style="height:48px;">
-        <strong>Antonio Jacob Jr</strong>
-      </div>
-
-   <div style="height:36px;">
-        <a href="http://lattes.cnpq.br/4510520291728075" target="_blank">
-          <img src="images/lattes.png" width="22" alt="Lattes">
-        </a>
-        <a href="https://www.linkedin.com/in/jacob-jr-744946208/" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
-        </a>
-      </div>
+    <td align="center">
+      <a href="http://lattes.cnpq.br/4510520291728075"><img src="images/lattes.png" width="22" alt="Lattes"></a>
+      <a href="https://www.linkedin.com/in/jacob-jr-744946208/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22" alt="LinkedIn"></a>
     </td>
-<!-- René -->
-    <td align="center" width="180">
-      <img src="images/rene.png" width="110" height="110"
-           style="object-fit: cover;" alt="René Santin"><br>
-
-  <div style="height:48px;">
-        <strong>René Santin</strong>
-      </div>
-
-  <div style="height:36px;">
-        <a href="http://lattes.cnpq.br/8967108715703055" target="_blank">
-          <img src="images/lattes.png" width="22" alt="Lattes">
-        </a>
-        <a href="https://www.linkedin.com/in/rene-santin-6b40802/" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
-        </a>
-      </div>
+    <td align="center">
+      <a href="http://lattes.cnpq.br/8967108715703055"><img src="images/lattes.png" width="22" alt="Lattes"></a>
+      <a href="https://www.linkedin.com/in/rene-santin-6b40802/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22" alt="LinkedIn"></a>
     </td>
-
-<!-- Solange -->
-<td align="center" width="180">
-      <img src="images/solange.png" width="110" height="110"
-           style="object-fit: cover;" alt="Solange Rezende"><br>
-
-  <div style="height:48px;">
-        <strong>Solange Rezende</strong>
-      </div>
-
-  <div style="height:36px;">
-        <a href="http://lattes.cnpq.br/8526960535874806" target="_blank">
-          <img src="images/lattes.png" width="22" alt="Lattes">
-        </a>
-        <a href="https://www.linkedin.com/in/solangerezende/" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
-        </a>
-      </div>
+    <td align="center">
+      <a href="http://lattes.cnpq.br/8526960535874806"><img src="images/lattes.png" width="22" alt="Lattes"></a>
+      <a href="https://www.linkedin.com/in/solangerezende/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22" alt="LinkedIn"></a>
     </td>
-
-<!-- Ricardo -->
-<td align="center" width="180">
-      <img src="images/ricardo.png" width="110" height="110"
-           style="object-fit: cover;" alt="Ricardo Marcacini"><br>
-
-  <div style="height:48px;">
-        <strong>Ricardo Marcacini</strong>
-      </div>
-
-  <div style="height:36px;">
-        <a href="http://lattes.cnpq.br/3272611282260295" target="_blank">
-          <img src="images/lattes.png" width="22" alt="Lattes">
-        </a>
-        <a href="https://www.linkedin.com/in/marcacini/" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22">
-        </a>
-      </div>
+    <td align="center">
+      <a href="http://lattes.cnpq.br/3272611282260295"><img src="images/lattes.png" width="22" alt="Lattes"></a>
+      <a href="https://www.linkedin.com/in/marcacini/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22" alt="LinkedIn"></a>
     </td>
-
   </tr>
 </table>
-
 
 
