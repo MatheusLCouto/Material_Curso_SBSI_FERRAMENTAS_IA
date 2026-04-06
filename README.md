@@ -45,11 +45,12 @@ a fluência no uso de ferramentas de IA, competência necessária neste novo mun
 
   <!-- Fábio -->
    <td align="center" width="180">
-      <img src="images/fabio.jpg" width="110" height="110"
+      <img src="images/fabio.png" width="110" height="110"
            style="object-fit: cover;" alt="Fábio Lobato"><br>
 
   <div style="height:48px;">
-        <strong>Fábio M. F.Lobato</strong>
+        <strong>Fábio M. F. 
+          Lobato</strong>
       </div>
 
    <div style="height:36px;">
@@ -68,7 +69,8 @@ a fluência no uso de ferramentas de IA, competência necessária neste novo mun
            style="object-fit: cover;" alt="Matheus Couto"><br>
 
   <div style="height:48px;">
-        <strong>Matheus L. Couto</strong>
+        <strong>Matheus L. 
+          Couto</strong>
       </div>
 
   <div style="height:36px;">
@@ -83,11 +85,12 @@ a fluência no uso de ferramentas de IA, competência necessária neste novo mun
 
 <!-- Jacob -->
 <td align="center" width="180">
-      <img src="images/jacob.jpg" width="110" height="110"
+      <img src="images/jacob.png" width="110" height="110"
            style="object-fit: cover;" alt="Antonio Jacob Jr"><br>
 
   <div style="height:48px;">
-        <strong>Antonio L. Jacob Jr</strong>
+        <strong>Antonio L. 
+          Jacob Jr</strong>
       </div>
 
    <div style="height:36px;">
@@ -105,7 +108,8 @@ a fluência no uso de ferramentas de IA, competência necessária neste novo mun
            style="object-fit: cover;" alt="René Santin"><br>
 
   <div style="height:48px;">
-        <strong>René V. Santin</strong>
+        <strong>René V. 
+          Santin</strong>
       </div>
 
   <div style="height:36px;">
@@ -120,11 +124,12 @@ a fluência no uso de ferramentas de IA, competência necessária neste novo mun
 
 <!-- Solange -->
 <td align="center" width="180">
-      <img src="images/solange.jpg" width="110" height="110"
+      <img src="images/solange.png" width="110" height="110"
            style="object-fit: cover;" alt="Solange Rezende"><br>
 
   <div style="height:48px;">
-        <strong>Solange O. Rezende</strong>
+        <strong>Solange O. 
+          Rezende</strong>
       </div>
 
   <div style="height:36px;">
@@ -143,7 +148,8 @@ a fluência no uso de ferramentas de IA, competência necessária neste novo mun
            style="object-fit: cover;" alt="Ricardo Marcacini"><br>
 
   <div style="height:48px;">
-        <strong>Ricardo M. Marcacini</strong>
+        <strong>Ricardo M. 
+          Marcacini</strong>
       </div>
 
   <div style="height:36px;">
